@@ -1,11 +1,4 @@
-""" Creates random anime sticker """
 
-# by @krishna_singhal
-
-import random
-
-from userge.utils import demojify
-from userge import userge, Message
 
 
 @userge.on_cmd("sticker", about={
